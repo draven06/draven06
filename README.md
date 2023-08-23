@@ -2,7 +2,7 @@
 -🌱 I’m currently learning Python's Data Wrangling, Visualization, Exploratory Data Analysis, Data Science, and NLP.
 -😄 Pronouns: He / Him
 
-#Fun fact 🇵🇭
+##Fun fact :
    1. I am a college student learning different programming languages. 👨‍💻
    1. I wish to graduate this year and hope to join the workforce. 🎓
    1. I spend every day learning programming because I do not have the talent like other students. 😞
