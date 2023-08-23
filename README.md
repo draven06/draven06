@@ -6,7 +6,6 @@
    1. I am a college student learning different programming languages. 👨‍💻
    1. I wish to graduate this year and hope to join the workforce. 🎓
    1. I spend everyday learning programming because I do not have the talent like other students. 😞
-   2. I am a 🇵🇭 in 🇨🇦
   
 <!--
 **draven06/draven06** is a ✨ _particular_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
