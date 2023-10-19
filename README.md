@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python's Data Wrangling, Visualization, Exploratory Data Analysis, Data Science, and NLP.
+- 🌱 I’m currently learning Python's Data Wrangling, Visualization, Exploratory Data Analysis, Data Science, Machine Learning, and NLP.
 - 😄 Pronouns: He / Him
 
 #### Fun fact :
